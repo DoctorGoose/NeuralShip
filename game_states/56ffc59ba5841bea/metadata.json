@@ -1,0 +1,1 @@
+{"Total_Turns": 94, "Winner": 2, "Player1_Accuracy": 18.09, "Player1_Strategy": "<function random_shot at 0x0000022A944D23E0>", "Player1_Setup": "Random", "Player2_Accuracy": 18.09, "Player2_Strategy": "<function heuristic_shot at 0x0000022A94590720>", "Player2_Setup": "Random"}
